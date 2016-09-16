@@ -1,0 +1,12 @@
+1, Three Wolf Man shirt, Fashion, 8.95, 10
+2, Bic for Her Pens, Office, 3.99, 10
+3, Hutzler Banana Slicer, Home and Kitchen, 4.41, 10
+4, Officially Licenses Luke Skywaler Ceremonial Jacket With Medal of Yavin, Fashion, 17.99, 10
+5, MHP The Sandler All Wood Coffin Kit, Tools and Home Improvement, 99.99, 10
+6, Relaxman Relaxation Capsule, Home and Kitchen, 599.99, 10
+7, Ready America 77100 Cat Evacuation Kit, Tools and Home Improvement, 19.99, 10
+8, Accoutrements Horse Head Mask, Accessories, 23.37, 10
+9, Certified Diamond, Jewelry, 9999.98, 2
+10, American Flag Pants, Fashion, 16.99, 5
+11, Elephant Camouflage Kit, Accessories, 17.50, 15
+12, Nuclear Duct Tape, Office, 750.00, 10
