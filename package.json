@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An amazon-like storefront made in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtaveras824/Bamazon.git"
+  },
+  "keywords": [
+    "Bamazon",
+    "Node",
+    "Amazon",
+    "Node.js",
+    "MySQL"
+  ],
+  "author": "Reuben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtaveras824/Bamazon/issues"
+  },
+  "homepage": "https://github.com/rtaveras824/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.1.3"
+  }
+}
