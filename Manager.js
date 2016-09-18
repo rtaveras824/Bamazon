@@ -34,9 +34,9 @@ var Manager = function() {
 
 Manager.prototype = new User();
 
-console.log(Manager.prototype);
-console.log(Manager.prototype.type);
-console.log(Manager.type);
-console.log(User.prototype);
+// console.log(Manager.prototype);
+// console.log(Manager.prototype.type);
+// console.log(Manager.type);
+// console.log(User.prototype);
 
 module.exports = Manager;
